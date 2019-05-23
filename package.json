@@ -14,11 +14,11 @@
     "types"
   ],
   "repository": {
-    "url": "git+https://github.com/MoePlayer/vue-aplayer.git",
+    "url": "git+https://github.com/Teyamor/vue-aplayer.git",
     "type": "git"
   },
   "bugs": {
-    "url": "https://github.com/MoePlayer/vue-aplayer/issues"
+    "url": "https://github.com/Teyamor/vue-aplayer/issues"
   },
   "keywords": [
     "player",
